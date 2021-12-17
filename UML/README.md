@@ -1,5 +1,5 @@
 ### UML (Unified Modeling Language)
-This subject is divided onto 5 chapters :
+This subject is divided into 5 chapters :
 - UseCase Diagram
 - Class Diagram
 - Activity Diagram
