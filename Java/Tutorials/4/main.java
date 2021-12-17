@@ -1,7 +1,7 @@
 import java.util.SortedMap;
 import java.util.function.Predicate;
 
-public class td4 {
+public class main {
     public static void main(String[] args) throws CloneNotSupportedException {
         System.out.println("Welcome to your Program Marcos");
         Account marcos = new Account("MARCOS2700", 1000);
