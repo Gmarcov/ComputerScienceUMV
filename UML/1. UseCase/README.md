@@ -13,4 +13,4 @@ Le diagram de cas d'utilisation se compose de 3 **Concepts de Base**
   - Element externe actif qui interagit avec le système
   - n'est pas forcément un humain
 > Exemple
-![Use Case Example](./UseCase.png)
+![UseCase](https://user-images.githubusercontent.com/55796974/146654131-e967ceba-63b0-4f27-978e-af2bf3c57399.png)
